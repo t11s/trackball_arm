@@ -9,3 +9,4 @@ The trackball controls X/Y, the scroll wheel controls Z, and the two buttons are
 
 For a demo, see https://www.youtube.com/watch?v=7MxWVD4g58I
 
+The inverse kinematics come from somehwere I forget, but perhaps https://bldlive.wordpress.com/2010/07/15/robot-arm/
