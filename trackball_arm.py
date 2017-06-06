@@ -1,3 +1,6 @@
+# requires python-serial
+# sudo apt-get install python-serial
+#
 # for more Pololu Micro Maestro info
 # see http://afflator.ontopoeticmachines.org/post/9
 from sys import *
@@ -167,7 +170,7 @@ grip_closed=2368
 grip_open=1600
 
 # path to /dev for Kensington Orbit Trackball USB Mouse with Scroll Ring
-infile_path = "/dev/input/event0")
+infile_path = "/dev/input/event0"
 
 #long int, long int, unsigned short, unsigned short, long int
 FORMAT = 'llHHl'
